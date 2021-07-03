@@ -29,3 +29,6 @@ This analysis aims to identify patterns which indicate if a client has difficult
 ❏ Female applicant in age of 57-63 in with unemployed income type and applying for cash loans was considered to be a risky profile
 ❏ The income type applicants mostly comprised of “Working” group followed by Commercial associate and Pensioner.
 ❏ Repairs had highest rejection rate and it is considered risky by the bank.
+
+## Data Used
+https://drive.google.com/drive/folders/16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
